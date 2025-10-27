@@ -4,8 +4,6 @@ description: Image of linear equation using Greek characters.
 file: /courses/18-156-differential-analysis-spring-2004/b378fc13b341568561418c2c7af68856_equation.jpg
 file_size: 10891
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

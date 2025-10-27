@@ -26,7 +26,6 @@
     "website": "18-156-differential-analysis-spring-2004"
   },
   "course_title": "Differential Analysis",
-  "hide_download": true,
   "course_description": "The main goal of this course is to give the students a solid foundation in the theory of elliptic and parabolic linear partial differential equations.\u00a0It is the second semester of a two-semester, graduate-level sequence on Differential Analysis.\n",
   "department_numbers": [
     "18"
@@ -37,7 +36,6 @@
     "content": "f85265eb-0c8b-7777-7ef1-6ba473141e63",
     "website": "18-156-differential-analysis-spring-2004"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Presentation Assignments"
